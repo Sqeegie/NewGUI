@@ -1,0 +1,5 @@
+name: NewGUI
+main: com.sqeegie.newgui.NewGUI
+version: 1.4.0
+author: erestor1999, kev3200, Sqeegie.
+description: A modified version of RPG_PVP.

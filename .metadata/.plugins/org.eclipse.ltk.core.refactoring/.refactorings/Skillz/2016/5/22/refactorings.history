@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 packages to &apos;LevelGUI/src&apos;&#x0D;&#x0A;- Original project: &apos;Skillz&apos;&#x0D;&#x0A;- Destination element: &apos;LevelGUI/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Skillz/src/main/java/nl.lolmen.Skills&#x0D;&#x0A;     Skillz/src/main/java/nl.lolmen.Skills.skills&#x0D;&#x0A;     Skillz/src/main/java/nl.lolmen.Skillz&#x0D;&#x0A;     Skillz/src/main/java/nl.lolmen.API&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=LevelGUI/src" element1="/src\/main\/java&lt;nl.lolmen.Skills" element2="/src\/main\/java&lt;nl.lolmen.Skills.skills" element3="/src\/main\/java&lt;nl.lolmen.Skillz" element4="/src\/main\/java&lt;nl.lolmen.API" flags="589830" fragments="4" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1464118523827" version="1.0"/>
+</session>

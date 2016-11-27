@@ -1,0 +1,2 @@
+# NewGUI
+NewGUI, also known as RPG_PvP, is a custom crafting/smithing menu for RPG servers. Originally created for the QuestZone server by erestor1999. Now modified for the BuildZone server by Sqeegie.

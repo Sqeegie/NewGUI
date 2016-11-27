@@ -1,0 +1,5 @@
+name: NewGUI
+main: com.sqeegie.newgui.NewGUI
+version: 1.4.0
+author: Sqeegie.
+description: A modified version of RPG_PVP.
