@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.metadata/
+NewGUI/bin/
+.recommenders/
+NewGUI/.classpath
+NewGUI/.project
+NewGUI/.settings/
