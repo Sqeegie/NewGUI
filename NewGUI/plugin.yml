@@ -1,5 +1,5 @@
 name: NewGUI
 main: com.sqeegie.newgui.NewGUI
-version: 1.4.0
+version: 1.4.1
 author: erestor1999, kev3200, Sqeegie.
-description: A modified version of RPG_PVP. A custom crafting menu.
+description: A modified version of RPG_PVP, a custom crafting menu plugin. Made for the BuildZone server.
